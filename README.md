@@ -35,5 +35,5 @@ Some popular To-Do List apps include:
 - Wunderlist
 - Google Tasks
 live deployment link:  //https://gayathrisubha2005.github.io/G-22-5/
-Github repository link: //
+Github repository link: //https://github.com/gayathrisubha2005/G-22-5.git
   
