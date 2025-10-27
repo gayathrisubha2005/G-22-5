@@ -1,4 +1,4 @@
-A To-Do List application is a digital tool designed to help users manage their tasks, prioritize activities, and stay organized. Here's a breakdown of its definition, features, how it works, and challenges:
+A To-Do List Application
 
 Definition:
 A To-Do List app is a task management software that enables users to create, edit, and manage their daily tasks, projects, and goals.
